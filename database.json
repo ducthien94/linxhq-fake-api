@@ -4,7 +4,7 @@
          "id": 1,
          "name": "Cài đặt môi trường - Công cụ phát triển",
          "description": "Video chia sẻ học lập trình ReactJS. Khoá học dành cho người bắt đầu học lập trình React",
-         "img": "https://bhtech.com.vn/wp-content/uploads/2017/04/React-Native-Logo-300x300.png",
+         "img": "/images/1.jpg",
          "srcVideo": "https://www.youtube.com/embed/6cbf_Bt6PDo",
          "time": "17:31"
       },
@@ -12,7 +12,7 @@
          "id": 2,
          "name": "Khởi tạo project ReactJS đầu tiên bằng create-react-app",
          "description": "Video chia sẻ học lập trình ReactJS. Khoá học dành cho người bắt đầu học lập trình React",
-         "img": "https://bhtech.com.vn/wp-content/uploads/2017/04/React-Native-Logo-300x300.png",
+         "img": "/images/2.jpg",
          "srcVideo": "https://www.youtube.com/embed/GNR5iY0N26U",
          "time": "22:39"
       },
@@ -20,7 +20,7 @@
          "id": 3,
          "name": "Component",
          "description": "Video chia sẻ học lập trình ReactJS. Khoá học dành cho người bắt đầu học lập trình React",
-         "img": "https://bhtech.com.vn/wp-content/uploads/2017/04/React-Native-Logo-300x300.png",
+         "img": "/images/3.jpg",
          "srcVideo": "https://www.youtube.com/embed/s6-WS8gLaqc",
          "time": "30:14"
       },
@@ -28,7 +28,7 @@
          "id": 4,
          "name": "JSX",
          "description": "Video chia sẻ học lập trình ReactJS. Khoá học dành cho người bắt đầu học lập trình React",
-         "img": "https://bhtech.com.vn/wp-content/uploads/2017/04/React-Native-Logo-300x300.png",
+         "img": "/images/4.jpg",
          "srcVideo": "https://www.youtube.com/embed/hQC5cjOGIgU",
          "time": "17:43"
       },
@@ -36,7 +36,7 @@
          "id": 5,
          "name": "JSX mở rộng",
          "description": "Video chia sẻ học lập trình ReactJS. Khoá học dành cho người bắt đầu học lập trình React",
-         "img": "https://bhtech.com.vn/wp-content/uploads/2017/04/React-Native-Logo-300x300.png",
+         "img": "/images/5.jpg",
          "srcVideo": "https://www.youtube.com/embed/3iRXTW7dBP8",
          "time": "9:40"
       },
@@ -44,7 +44,7 @@
          "id": 6,
          "name": "props",
          "description": "Video chia sẻ học lập trình ReactJS. Khoá học dành cho người bắt đầu học lập trình React",
-         "img": "https://bhtech.com.vn/wp-content/uploads/2017/04/React-Native-Logo-300x300.png",
+         "img": "/images/6.jpg",
          "srcVideo": "https://www.youtube.com/embed/gqsrcCUxnF0",
          "time": "24:48"
       },
@@ -52,7 +52,7 @@
          "id": 7,
          "name": "Xử lý sự kiện",
          "description": "Video chia sẻ học lập trình ReactJS. Khoá học dành cho người bắt đầu học lập trình React",
-         "img": "https://bhtech.com.vn/wp-content/uploads/2017/04/React-Native-Logo-300x300.png",
+         "img": "/images/7.jpg",
          "srcVideo": "https://www.youtube.com/embed/__Pu_Dpw9IM",
          "time": "20:51"
       },
@@ -60,7 +60,7 @@
          "id": 8,
          "name": "Refs",
          "description": "Video chia sẻ học lập trình ReactJS. Khoá học dành cho người bắt đầu học lập trình React",
-         "img": "https://bhtech.com.vn/wp-content/uploads/2017/04/React-Native-Logo-300x300.png",
+         "img": "/images/8.jpg",
          "srcVideo": "https://www.youtube.com/embed/--E_SINsyqE",
          "time": "8:47"
       },
@@ -68,7 +68,7 @@
          "id": 9,
          "name": "State",
          "description": "Video chia sẻ học lập trình ReactJS. Khoá học dành cho người bắt đầu học lập trình React",
-         "img": "https://bhtech.com.vn/wp-content/uploads/2017/04/React-Native-Logo-300x300.png",
+         "img": "/images/9.jpg",
          "srcVideo": "https://www.youtube.com/embed/zv5HI-ng3I0",
          "time": "14:36"
       },
@@ -76,7 +76,7 @@
          "id": 10,
          "name": "Form",
          "description": "Video chia sẻ học lập trình ReactJS. Khoá học dành cho người bắt đầu học lập trình React",
-         "img": "https://bhtech.com.vn/wp-content/uploads/2017/04/React-Native-Logo-300x300.png",
+         "img": "/images/10.jpg",
          "srcVideo": "https://www.youtube.com/embed/NfzT46L38Cg",
          "time": "38:04"
       }
