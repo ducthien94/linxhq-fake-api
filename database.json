@@ -10,7 +10,7 @@
       },
       {
          "id": 2,
-         "name": "Khởi tạo project ReactJS đầu tiên bằng create-react-app",
+         "name": "Khởi tạo ứng dụng React với create-react-app",
          "description": "Video chia sẻ học lập trình ReactJS. Khoá học dành cho người bắt đầu học lập trình React",
          "img": "/images/2.jpg",
          "srcVideo": "https://www.youtube.com/embed/GNR5iY0N26U",
